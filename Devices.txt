@@ -1,0 +1,171 @@
+Item_List 
+{
+    ITEM 
+	{
+	    CODE 0		
+        ITEM_TYPE tv
+       	NAME Sony KD 65xD9304  
+        YEAR 2014
+        CONSTRUCTOR Sony
+        PRICE 3649.0
+        TYPE LED
+        SCREEN 65
+		RESOLUTION 3840x2160
+        PORTS HDMI
+        STOCK 0
+	}
+	ITEM
+	{
+	    CODE 1
+        ITEM_TYPE tv
+       	NAME Samsung P5511F550053  
+        YEAR 2013
+        CONSTRUCTOR Samsung
+        PRICE 499.0
+        TYPE Plasma
+        SCREEN 42
+		RESOLUTION 1920x1080
+        PORTS DVI
+        STOCK 3
+	}
+	ITEM 
+	{
+	    CODE 2
+        ITEM_TYPE BlueRay_DVD_player
+       	NAME Sony DVPE763 DVD Player  
+        YEAR 2012
+        CONSTRUCTOR Sony
+        PRICE 44.90
+        TYPE DVD
+		RESOLUTION 1920x1080
+        FORMAT DVDRW
+        STOCK 1
+	}
+	ITEM
+	{
+	    CODE 3
+        ITEM_TYPE BlueRay_DVD_player
+       	NAME Samsung BD-j5500 Blu-ray  
+        YEAR 2015
+        CONSTRUCTOR Samsung
+        PRICE 86.90
+        TYPE Blue_ray
+		RESOLUTION 1920x1080
+        FORMAT BDR
+        STOCK 4
+	}
+	ITEM
+	{
+	    CODE 4
+        ITEM_TYPE Camera
+       	NAME Sony Action Cam HDR-A5200VR  
+        YEAR 2011
+        CONSTRUCTOR Sony
+        PRICE 279.0
+        TYPE Action_camera
+		MEGAPIXEL 8.9
+        SCREEN_SIZE 4.5
+		OPTICAL_ZOOM 10x
+		DIGITAL_ZOOM 4x
+        STOCK 6
+	}
+	ITEM
+	{
+	    CODE 5
+        ITEM_TYPE Camera
+       	NAME Camera Nikon Coolpix 52901 
+        YEAR 2010
+        CONSTRUCTOR Nikon
+        PRICE 89.0
+        TYPE compact
+		MEGAPIXEL 20
+        SCREEN_SIZE 5.0
+		OPTICAL_ZOOM 10x
+		DIGITAL_ZOOM 5x
+        STOCK 6
+	}
+	ITEM
+	{
+	    CODE 6
+        ITEM_TYPE Gaming
+       	NAME Sony Console PS4 500GB B Chassis  
+        YEAR 2014
+        CONSTRUCTOR Sony
+        PRICE 389.0
+        TYPE PS4
+		GRAPHICS 1.84 TFLOPS, AMD next-generation Radeon
+        PROCCESOR x86-64, 8-core
+		SOUND Dolby Digital
+		HARD_DISC 500GB
+        STOCK 3
+	}
+	ITEM
+	{
+	    CODE 7
+        ITEM_TYPE Gaming
+       	NAME Microsoft Xbox One 1TB Elite Bundle  
+        YEAR 2015
+        CONSTRUCTOR Microsoft
+        PRICE 499.0
+        TYPE Xbox
+		GRAPHICS 1.34 TFLOPS, AMD GCN architecture
+        PROCCESOR x86-64, 8-core
+		SOUND Surround 7.l
+		HARD_DISC 1TB
+        STOCK 5
+	}
+	ITEM 
+	{
+	    CODE 8
+        ITEM_TYPE Refrigerator
+       	NAME Whirpool WM 1552 A+W  
+        YEAR 2012
+        CONSTRUCTOR Whirpool
+        PRICE 449.0
+        TYPE Single_door
+		ENERGY_RATING A+
+        COOLER_CAPACITY 208L
+		FREEZER_CAPACITY 15L
+        STOCK 2
+	}
+	ITEM
+	{
+	    CODE 9
+        ITEM_TYPE Refrigerator
+       	NAME Siemens KD29WL31  
+        YEAR 2010
+        CONSTRUCTOR Siemens
+        PRICE 415.0
+        TYPE Double_door
+		ENERGY_RATING A++
+        COOLER_CAPACITY 194L
+		FREEZER_CAPACITY 70L
+        STOCK 6
+	}
+	ITEM
+	{
+	    CODE 10
+        ITEM_TYPE Washing_Machine
+       	NAME Samsung WF1134XAC 
+        YEAR 2015
+        CONSTRUCTOR Samsung
+        PRICE 759.0
+		ENERGY_RATING A+++
+        CAPACITY 12kg
+		SPINS 1400rpm
+        STOCK 4
+	}
+	ITEM 
+	{
+	    CODE 11
+        ITEM_TYPE Washing_Machine
+       	NAME Bosch WVG30442EU
+        YEAR 2009
+        CONSTRUCTOR Bosch
+        PRICE 849.0
+		ENERGY_RATING A
+        CAPACITY 8kg
+		SPINS 1500rpm
+        STOCK 1
+	}
+}
